@@ -24,11 +24,17 @@
 
 ### Variables and Data
 activity_labels :  this variable is used to store the data in "activity_labels.txt"
+
 features : this variable is used to store the data in "features.txt"
+
 train_X, train_y and train_subject are used to form a new training data set called TotaTest
+
 test_X, test_y and test_subject are used to form a new test data set called TotaTrain
+
 Tota : this variable is used to store the whole new data set by combining TotaTest and TotaTrain
+
 NameColumnKeep is used to store the columns data that should be left.
+
 TotaTidy is used to keep the final clean data.
 
 ### Packages
